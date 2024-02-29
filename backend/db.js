@@ -16,4 +16,3 @@ const todo = mongoose.model("todos", TodoSchema);
 module.exports = {
     todo
 }
-ggbG
